@@ -91,10 +91,10 @@ and set variables
 Example:  
 ```echo $GVAR```  
 ```vi /etc/profile``` (catch the eyes to readonly)  
-```sudo vi /etc/profile```  
+```sudo vi /etc/profile```    
 
-__Global Variables__
+__Global Variables__  
 ```export GVAR=GLOBAL_VALUE``` (save it)  
-```source /etc/profile```
-```echo $GVAR```
+```source /etc/profile```  
+```echo $GVAR```  
 
