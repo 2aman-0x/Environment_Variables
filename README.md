@@ -59,10 +59,10 @@ Example:
 ```ls -lt ~/.profile``` (this command is for Ubuntu)  
 
 ```vi ~/.bash_profile```  
-```press i``` for INSERT  
+press ```i``` for INSERT  
 ```export NEWVAR=Linux```  
 
-```press Shift+:``` then ```press wq``` and ```ENTER``` for save and exit.  
+press ```Shift+:``` then press ```wq``` and ```ENTER``` for save and exit.  
 
 ```cat ~/.bash_profile```  
 ```echo $NEWVAR```  
